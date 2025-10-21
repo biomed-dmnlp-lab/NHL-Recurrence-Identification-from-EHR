@@ -2,17 +2,16 @@
 
 This project experiments with tabular machine learning and LLM approach to identify recurrent cases given historic EHR data of patient.
 
-The tool developed 
-
-## Background
-
-
-
 Sub-types of NHL recurrence tested on:
 1. DLBCL (Diffuse Large B-cell Lymphoma)
 2. FL (Follicular Lymphoma)
 
+The tool developed is intended to automate identifiation of NHL recurrent cases from EHR.
+
 Our experiments highight RAG apporach outperform both heuristic/rule-based and tabular machine approaches
+
+## Background
+
 
 ## Directory
 
@@ -21,3 +20,8 @@ For running the final tool, given the dataset is in required format; refer to [d
 
 ## Documentation
 [Repo Wiki](../../wiki)
+
+## To-Do
+1. Complete end to end pipeline
+2. Add requirements.txt
+3. Complete documentation
