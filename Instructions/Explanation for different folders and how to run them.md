@@ -12,7 +12,7 @@
 
 
 
-## <code style="color : red">**Note**</code>
+## 🔴<code style="color : red">**Note**</code>
 1. All the "requirements.txt"(python environment required to run code) to the notebooks or .py file are found in their respective folders.
 2. Because of the sensitive nature of the datasets involved datasources are not included in the repo.
 
