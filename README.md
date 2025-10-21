@@ -16,7 +16,7 @@ Our experiments highight RAG apporach outperform both heuristic/rule-based and t
 ## Directory
 
 ## Installation/Usage
-For running the final tool, given the dataset is in required format; refer to [documention](../../wiki/How-to-Run-Final-Pipeline)
+For running the final tool make sure the dataset is in required format; refer to [documention](../../wiki/How-to-Run-Final-Pipeline)
 
 ## Documentation
 [Repo Wiki](../../wiki)
