@@ -2,12 +2,13 @@
 
 <h2> Table of Contents </h2>
 
-- [**Note**](#note)
+- [🔴**Note**](#note)
 - [**EDA and Data Processing Notebooks**](#eda-and-data-processing-notebooks)
   - [EDA.ipynb](#edaipynb)
   - [ClinicalNotesSentenceSplitter.ipynb](#clinicalnotessentencesplitteripynb)
 - [**ML and LLM Pipleine(s) Code**](#ml-and-llm-pipleines-code)
 - [**Final Pipeline**](#final-pipeline)
+
 
 
 
